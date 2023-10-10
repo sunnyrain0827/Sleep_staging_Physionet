@@ -1,2 +1,4 @@
-# Sleep_staging_Physionet
-Automatically classify sleep stages by training a convolutional neural network.
+# [NMED] Neonatal Sleep Patterns' Impact Analysis
+## This repository contains the research into neonatal sleep patterns' impact on NICU Health Discovery. This project is currently still in the planning phase.
+
+
