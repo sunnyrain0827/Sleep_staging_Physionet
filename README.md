@@ -1,7 +1,7 @@
 # Neonatal Sleep Patterns' Impact Analysis Based on EEG Signals
 
 This repository contains the research into neonatal sleep patterns' impact on NICU Health Discovery. 
-This project is currently still developing in the phase 1.
+This project is currently developing in the phase 2.
 
 
 ## Background and Motivation:
